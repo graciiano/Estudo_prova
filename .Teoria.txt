@@ -1,0 +1,20 @@
+1 - O que são algoritmos ?
+    Basicamente os algoritmos são sequências finitas de instruções
+    utilizadas a fim de resolver um problema.
+
+
+2 - O que são Arrays/Listas ? 
+    O array são estruturas que servem para armazenar dados em um
+    espaço reservado e organizá-los.
+
+
+3 - O que são pilhas ?
+    São estruturas de dados que permitem um maior controle nas
+    inserções e remoções de elementos, sendo uma alternativa
+    aos arrays.
+    As pilhas são estruturas de dados do tipo LIFO (last-in first-out)
+    ou seja, o ultimo elemento a ser inserido é o primeiro a ser
+    retirado.
+
+4 - O quesão arvores ?
+    

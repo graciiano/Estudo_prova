@@ -51,14 +51,22 @@ const prompt = require('prompt-sync')();
 
 
 
-const numeros = [1, 2 , 3, 4, 5, 6, 23, 22, 423, 999];
+// const numeros = [1, 2 , 3, 4, 5, 6, 23, 22, 423, 999];
 
-let soma = 0
+// let soma = 0
 
-for(let i = 0; i < numeros.length; i++) {
-    let n = numeros[i];
-    if(n % 2 !== 0 ) {
-        soma += n
-    }
+// for(let i = 0; i < numeros.length; i++) {
+//     let n = numeros[i];
+//     if(n % 2 !== 0 ) {
+//         soma += n
+//     }
+// }
+// console.log('A soma dos impares é: ' +soma)
+
+
+const nomes = ['diogo', 'vanessa', 'christina', 'joão'];
+
+for(let i = nomes.length - 1; i >= 0; i-- ) {
+
+    console.log(nomes[i])
 }
-console.log('A soma dos impares é: ' +soma)
